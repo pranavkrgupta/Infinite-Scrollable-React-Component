@@ -1,1 +1,1 @@
-# Infinite-Scrollable-React-Component
+# Infinite Scrollable React Component
